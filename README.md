@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Welcome to my first webpage</h1>
-    This is my first webpage.<b>Welcome to Alec Quillen's Creation.</b>
+<p>This is my first webpage.<b>Welcome to Alec Quillen's Creation.</b></p>
 </body>
 </html>
